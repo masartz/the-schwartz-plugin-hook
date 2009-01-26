@@ -3,7 +3,7 @@ Changes
 MANIFEST
 Makefile.PL
 README
-lib/TheSchwartz/Worker/Plugin/Manager.pm
+lib/TheSchwartz/Worker/Plugin/Hook.pm
 t/00.load.t
 t/01.basic.t
 t/perlcritic.t
